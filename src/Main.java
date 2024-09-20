@@ -3,7 +3,7 @@ public class Main
     public static void main(String[] args)
     {
         double balance = 5000.00;
-        double interestRate = 0.17;  
+        double interestRate = 0.17;
 
         double firstMonthInterest = balance * interestRate;
         double balanceAfterOneMonth = balance + firstMonthInterest;
